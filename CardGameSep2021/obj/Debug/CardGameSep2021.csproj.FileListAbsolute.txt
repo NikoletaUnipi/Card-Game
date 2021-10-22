@@ -1,0 +1,24 @@
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\bin\Debug\CardGameSep2021.exe.config
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\bin\Debug\CardGameSep2021.exe
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\bin\Debug\CardGameSep2021.pdb
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.csproj.AssemblyReference.cache
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.Form1.resources
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.Properties.Resources.resources
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.csproj.GenerateResource.cache
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.csproj.CoreCompileInputs.cache
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.exe
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.pdb
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.welcome.resources
+C:\Users\Nikoleta\source\repos\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.top10.resources
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\bin\Debug\CardGameSep2021.exe.config
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\bin\Debug\CardGameSep2021.exe
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\bin\Debug\CardGameSep2021.pdb
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.csproj.AssemblyReference.cache
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.Form1.resources
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.Properties.Resources.resources
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.top10.resources
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.welcome.resources
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.csproj.GenerateResource.cache
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.csproj.CoreCompileInputs.cache
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.exe
+C:\Users\Nikoleta\Documents\Εξάμηνο 3ο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\CardGameSep2021\CardGameSep2021\obj\Debug\CardGameSep2021.pdb
